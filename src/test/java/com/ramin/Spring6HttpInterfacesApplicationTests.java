@@ -1,4 +1,4 @@
-package spring6httpinterfaces.spring6httpinterfaces;
+package com.ramin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
